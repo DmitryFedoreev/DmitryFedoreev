@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Python Developer. I am currently studying at hexlet.
+I am studying to become a Python developer at the online school Hexlet.
 
 ### My social networks
 <div id="badges">
@@ -18,7 +18,7 @@ I am a Python Developer. I am currently studying at hexlet.
 <img src="https://komarev.com/ghpvc/?username=DmitryFedoreev&style=flat-square&color=blue" alt=""/>
 
 
-#### :hammer_and_wrench: Languages and Tools :
+#### :hammer_and_wrench: The languages and tools I am mastering:
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="42" height="42"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
