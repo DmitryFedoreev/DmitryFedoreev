@@ -15,7 +15,7 @@ I am studying to become a Python developer at the online school Hexlet.
 </div>
 
 
-<img src="https://komarev.com/ghpvc/?username=DmitryFedoreev&style=flat-square&color=blue" alt=""/>
+
 
 
 #### :hammer_and_wrench: The languages and tools I am mastering:
