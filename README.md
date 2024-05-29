@@ -1,18 +1,11 @@
 ### Hi there 👋
 I am studying to become a Python developer at the online school Hexlet.
 
-### My social networks
+### My codewars
 <div id="badges">
 <ahref="https://t.me/dmitryfedoreev">
-<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white "alt="Telegram Badge"/>
-</a>
-<ahref="https://www.youtube.com/@dmitryfedoreev">
-<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-</a>
-<ahref="https://twitter.com/fedoreevdmitry">
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
-</a>
-</div>
+<img src="https://www.codewars.com/users/DimaFedoreev/badges/micro"/>
+
 
 
 
