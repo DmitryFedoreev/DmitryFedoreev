@@ -3,7 +3,7 @@ I am studying to become a Python developer at the online school Hexlet.
 
 ### My codewars
 <div id="badges">
-<ahref="https://t.me/dmitryfedoreev">
+<ahref="[https://t.me/dmitryfedoreev](https://www.codewars.com/users/DimaFedoreev/badges/micro)">
 <img src="https://www.codewars.com/users/DimaFedoreev/badges/micro"/>
 
 
