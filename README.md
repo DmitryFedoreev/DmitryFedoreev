@@ -1,10 +1,6 @@
 ### Hi there 👋
 I am studying to become a Python developer at the online school Hexlet.
 
-### My codewars
-[codewars](https://www.codewars.com/users/DimaFedoreev/badges/micro
-)
-
 
 
 
