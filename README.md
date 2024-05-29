@@ -2,10 +2,8 @@
 I am studying to become a Python developer at the online school Hexlet.
 
 ### My codewars
-<div id="badges">
-<ahref="https://www.codewars.com/users/DimaFedoreev">
-<img src="https://www.codewars.com/users/DimaFedoreev/badges/micro"/>
-
+[codewars](https://www.codewars.com/users/DimaFedoreev/badges/micro
+)
 
 
 
